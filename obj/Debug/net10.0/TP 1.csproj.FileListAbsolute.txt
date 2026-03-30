@@ -12,3 +12,4 @@ C:\Users\lignaszewski\Documents\TP Orienté Objet\TP 1\obj\Debug\net10.0\refint\
 C:\Users\lignaszewski\Documents\TP Orienté Objet\TP 1\obj\Debug\net10.0\TP 1.pdb
 C:\Users\lignaszewski\Documents\TP Orienté Objet\TP 1\obj\Debug\net10.0\TP 1.genruntimeconfig.cache
 C:\Users\lignaszewski\Documents\TP Orienté Objet\TP 1\obj\Debug\net10.0\ref\TP 1.dll
+C:\Users\lignaszewski\Documents\TP Orienté Objet\TP 1\obj\Debug\net10.0\TP 1.sourcelink.json
